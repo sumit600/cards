@@ -8,14 +8,18 @@ html,
 body {
 height: 100%;
 width: 100%;
+display: flex;
 }
 
 .cards{
-    height: 400px;
-    width: 360px;
+    height: 300px;
+    width: 260px;
     background: black;
     text-align: center;
+    color: white;
+    margin: 22px 12px;
 }
 .cards img{
     height: 100px;
+    margin-top: 53px;
 }
